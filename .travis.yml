@@ -16,7 +16,7 @@ before_install:
 before_script: true
 
 script: 
-- phpunit Test.php
+- phpunit prueba.php
 
 
 notifications:
